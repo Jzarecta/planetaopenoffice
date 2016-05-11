@@ -1,0 +1,17 @@
+Django-CMS Google App Engine Edition PlanetaOpenOffice.org
+==========================================================
+
+Proyecto de desarrollo para **Apache OpenOffice** y el proyecto distribuyendo noticias del mismo asi como 
+proyecto piloto para evaluar las capacidades de Google AppEngine.
+
+El proyecto contiene el uso de JQuery y algunas otras cosas con respecto al frontend de la aplciacion.
+
+Tambien esta basado en una version antigua de Django-CMS y Django-GAE para poder hacerlo trabajar con el API de GAE.
+
+Descargar
+========
+El proyecto esta abierto y libre de descarga en Github: http://github.com/Jzarecta/planetaopenoffice.git
+
+Contacto
+=======
+twitter: @jza
